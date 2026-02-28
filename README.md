@@ -13,7 +13,7 @@ Over the last 3 years, I developed my 3D asset, frontend and backend dev skills 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https"//www.linkedin.com/in/lee-robert-velasquez-1a066ab3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lee-robert-velasquez-1a066ab3/)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge)](mailto:velasquez.leeroy@gmail.com)
 
 ---
