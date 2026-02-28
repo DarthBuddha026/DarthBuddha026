@@ -6,7 +6,7 @@ Over the last 3 years, I developed my 3D asset, frontend and backend dev skills 
 
 - 💻 Web Developer  
 - 🎨 3D Asset Developer  
-- 🚀 Exploring Three.js & VR/AR  
+- 🚀 Exploring Three.JS & VR/AR  
 - 🤝 Open for collaboration
 
 ---
